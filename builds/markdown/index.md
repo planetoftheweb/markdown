@@ -43,14 +43,15 @@ Figure 01. In a simple Bootstrap 3 layout with just three different breakpoints 
 
 But there are two problems. First, adding these classes to your markup can get a little verbose. Say for example that you want a layout that uses all of the columns on mobile devices, 6 of the 12 columns on small devices and 4 of the 12 columns on medium devices (see Figure 01). That markup might look something like this.
 
-    <h2>Services</h2>
+```
+<h2>Services</h2>
     <div class="row">
       <article class="service col-md-4 col-sm-6">
         <img class="icon" src="images/icon-exoticpets.svg" alt="Icon">
         <h3>Exotic Pets</h3>
         <p>We offer specialized care for reptiles, rodents, birds, and other exotic pets.</p>
-      </article>
-
+</article>
+```
 The second problem is that these classes add layout information to your HTML and would make your code difficult to update, especially on a large installation. But, a couple of classes isn’t too bad. As your layouts get more and more complex though (See figure 02), you might end up with some code that looks like this:
 
 <div class="photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">

@@ -29,12 +29,12 @@ Column width    Auto    ~62px    ~81px</p>
 <p>Figure 01. In a simple Bootstrap 3 layout with just three different breakpoints (two shown above), there are classes that don’t add semantic value and would be difficult to update.</p>
 <p>But there are two problems. First, adding these classes to your markup can get a little verbose. Say for example that you want a layout that uses all of the columns on mobile devices, 6 of the 12 columns on small devices and 4 of the 12 columns on medium devices (see Figure 01). That markup might look something like this.</p>
 <pre><code>&lt;h2&gt;Services&lt;/h2&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;article class=&quot;service col-md-4 col-sm-6&quot;&gt;
-    &lt;img class=&quot;icon&quot; src=&quot;images/icon-exoticpets.svg&quot; alt=&quot;Icon&quot;&gt;
-    &lt;h3&gt;Exotic Pets&lt;/h3&gt;
-    &lt;p&gt;We offer specialized care for reptiles, rodents, birds, and other exotic pets.&lt;/p&gt;
-  &lt;/article&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;article class=&quot;service col-md-4 col-sm-6&quot;&gt;
+        &lt;img class=&quot;icon&quot; src=&quot;images/icon-exoticpets.svg&quot; alt=&quot;Icon&quot;&gt;
+        &lt;h3&gt;Exotic Pets&lt;/h3&gt;
+        &lt;p&gt;We offer specialized care for reptiles, rodents, birds, and other exotic pets.&lt;/p&gt;
+&lt;/article&gt;
 </code></pre><p>The second problem is that these classes add layout information to your HTML and would make your code difficult to update, especially on a large installation. But, a couple of classes isn’t too bad. As your layouts get more and more complex though (See figure 02), you might end up with some code that looks like this:</p>
 <p>&lt;div class=&quot;photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0&quot;&gt;
 
