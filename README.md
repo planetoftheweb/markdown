@@ -1,8 +1,8 @@
 # Markdown Essential Training
 ![Markdown Essential Training](hero.png)
-This is the repository for my course, [Markdown Essential Training], an upcoming course on lynda.com.
-- [Demo Website](http://chetkins.com)
+This is the repository for my course, Markdown Essential Training, an upcoming course on lynda.com.
 - [My Personal Website](http://raybo.org)
+- [Twitter](http://twitter.com/planetoftheweb)
 
 1. Make sure you have these installed
 	- [node.js](http://nodejs.org/)
