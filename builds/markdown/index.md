@@ -10,9 +10,12 @@
 
 [Responsive design](http://raybo.org) for layouts can be tough, because it involves calculating:
 
-<ray@me.com>
+![Screenshot of Screen Cap Application](http://i.imgur.com/vlWN3Z7.png)
 
-* Width of containers dsdfsdf
+[![Gummy Bears] (http://iviewsource.com/i/gummies.jpg "Title of image")](http://raybo.org)
+
+
+* Width of containers
 * Rows
 * Columns
 * Gutters
