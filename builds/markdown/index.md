@@ -16,7 +16,11 @@ Responsive design for layouts can be tough, because it involves calculating:
 * Gutters
 * Different breakpoints.
 
+- - -
+
 Frameworks can help by creating presets for common breakpoints. Bootstrap 3, for example gives us a 12 column grid with four media query breakpoints (See Table 01).
+
+- - -
 
 The default Bootstrap 3 12-column Grid
 
