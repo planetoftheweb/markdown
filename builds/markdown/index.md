@@ -1,5 +1,14 @@
 # Flexible Layouts with Susy & Breakpoint
 
+
+| First Header | Second Header | Third | Fourth |
+| -------------|---------------|-------|-------|
+|content      |    content    | **content** | 1|
+|content | content | content | 399|
+|content | content | content | 30|
+|content | content | content | 3,000|
+|content | content | content | fifty|
+
 > Creating layouts for responsive **design** can be challenging because of the math involved in calculating column widths and gutters, so it’s common for designers to turn to Frameworks and/or Sass to help simplify some of the process.
 
 > A lot of frameworks are structured around a 12-column grid, but a flexible and <span class="special">responsive</span> grid doesn’t always fit into this structure. In this article, I’m going to show you how to use a coupe of `Sass` extensions that can help you create truly flexible layout that transcend the 12-column grid.
