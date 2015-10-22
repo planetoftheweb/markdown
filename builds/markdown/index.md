@@ -8,7 +8,9 @@
 
 ## The problem
 
-Responsive design for layouts can be tough, because it involves calculating:
+[Responsive design](http://raybo.org) for layouts can be tough, because it involves calculating:
+
+<ray@me.com>
 
 * Width of containers dsdfsdf
 * Rows
