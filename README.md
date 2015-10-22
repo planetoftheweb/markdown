@@ -8,7 +8,7 @@ This is the repository for my course, Markdown Essential Training, an upcoming c
 	- [node.js](http://nodejs.org/)
 	- [git](http://git-scm.com/)
  	- [gulp](http://gulpjs.com/)
-2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `> git clone https://github.com/planetoftheweb/markdown.git`
+2. Clone this repository into your local machine __using__ the terminal (mac) or Gitbash (PC) `> git clone https://github.com/planetoftheweb/markdown.git`
 3. CD to the folder `cd markdown`
 4. Run `> npm install` to install the project dependencies
 
