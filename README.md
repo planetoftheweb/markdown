@@ -1,6 +1,6 @@
 # Markdown Essential Training
 ![Markdown Essential Training](hero.png)
-This is the repository for my course, Markdown Essential Training, an upcoming course on lynda.com.
+This is the repository for my course, Markdown Essential Training, an **upcoming** course on lynda.com.
 - [My Personal Website](http://raybo.org)
 - [Twitter](http://twitter.com/planetoftheweb)
 
