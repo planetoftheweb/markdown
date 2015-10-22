@@ -10,11 +10,11 @@
 
 Responsive design for layouts can be tough, because it involves calculating:
 
-* Width of containers
+* Width of containers dsdfsdf
 * Rows
 * Columns
 * Gutters
-* Different breakpoints.
+* Different breakpoints
 
 - - -
 
